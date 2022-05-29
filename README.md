@@ -12,6 +12,8 @@ I recommend testing the screen before final assembly as it's difficult to get to
 
 My assembled picture shows the reset button access hole off by 2.5mm, this is corrected in the final model I just didn't have a picture.
 
+update: edit by allenrowand added to account for screen variances/clearance;   specifically the white connector between the direction switch and reset button .  Thanks!
+
 Required parts (BOM) is the same as those provided by smaseface so you could just follow his guide.
 
 BOM:
